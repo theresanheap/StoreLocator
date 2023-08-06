@@ -1,5 +1,0 @@
-Store Name,Store Site,Type of Style
-Banana Republic,https://bananarepublic.com,Timeless Office Wear
-Nordstrom,https://nordstrom.com,Upscale[ Department Store
-Uniqlo,https://uniqlo.com,Afforable Workwear Basics
-I Love Ugly,https://www.iloveugly.com,Modern Casual Office
