@@ -22,7 +22,7 @@ public class HelloController {
         String name = nameInput.getText();
 
         if (name.contains("workwear")) {
-            displayContentFromFile("src/main/resources/workwear_mens.txt");
+            displayContentFromFile("src/main/java/com/example/storelocator/workwear_mens.txt");
         } else if (name.contains("casual")) {
             displayContentFromFile("casual.txt");
         } else if (name.contains("active")) {
